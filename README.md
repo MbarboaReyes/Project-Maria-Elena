@@ -1,2 +1,3 @@
-# Project-Maria-Elena
-keep trying
+.gitignore
+.DS_sTORE
+/.IDEA
